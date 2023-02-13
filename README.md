@@ -9,3 +9,6 @@
  3. Send to th cloud/remote repository: `git push`
     Don't forget the `git status`to keep track of the current state.
 
+    
+ 4. retreive modification from the remote repository: `git pull`
+    Don't forget the `git status`to keep track of the current state.
