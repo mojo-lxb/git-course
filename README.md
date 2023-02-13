@@ -7,5 +7,7 @@
  1. Gather of modified files : `git add -all`
  2. Name the group of modification : `git comit -"your message description"`
  3. Send to th cloud/remote repository: `git push`
-
- don't forget the `git status`to keep track of the current state.
+    Don't forget the `git status`to keep track of the current state.
+    
+ 4. retreive modification from the remote repository: `git pull`
+    Don't forget the `git status`to keep track of the current state.
