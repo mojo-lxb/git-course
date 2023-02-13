@@ -2,5 +2,10 @@
 ## Initialise
  remote to local: git clone
  local to remote: git init and git push <br>
- Test push <br>
- Test push 2
+ 
+ ## Workflow 
+ 1. Gather of modified files : `git add -all`
+ 2. Name the group of modification : `git comit -"your message description"`
+ 3. Send to th cloud/remote repository: `git push`
+
+ don't forget the `git status`to keep track of the current state.
