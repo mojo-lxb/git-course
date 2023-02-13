@@ -1,7 +1,7 @@
 # git-course 
 ## Initialise
- remote to local: git clone
- local to remote: git init and git push <br>
+ remote to local: `git clone`
+ local to remote: `git init` and `git push` <br>
  
  ## Workflow 
  1. Gather of modified files : `git add -all`
